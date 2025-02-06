@@ -8,8 +8,10 @@ function Layout() {
     <>
    {/* will remain default fized */}
     <Header/> 
+
    {/* where outlet use it date can be chaged */}
     <Outlet/>
+    
     {/* will remain default fized */}
     <Footer />
     </>
